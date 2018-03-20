@@ -1,0 +1,9 @@
+{
+  "Mongodb": {
+    "querySize":100,
+    "connectionsPerHost":1000,
+    "socketKeepAlive":false,
+    "ServerIP":"127.0.0.1",
+    "ServerPort":27017
+  }
+}
